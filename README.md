@@ -26,11 +26,11 @@
         quit the program cleanly.
     + Program must take as a first argument a scene description file with the .rt  
       extension.
-    + .rt file description must follow rules:
-          - Each type of element can be separated by one or more line break(s).
-          - Each type of information from an element can be separated by one or more
-            space(s).
-          - Each type of element can be set in any order in the file.
-          - Elements which are defined by a capital letter can only be declared once in
-            the scene.
+  * .rt file description must follow rules:
+     + Each type of element can be separated by one or more line break(s).
+     + Each type of information from an element can be separated by one or more
+       space(s).
+     + Each type of element can be set in any order in the file.
+     + Elements which are defined by a capital letter can only be declared once in
+       the scene.
   
