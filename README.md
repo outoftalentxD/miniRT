@@ -49,8 +49,6 @@
   Examples 
   -----------
   
-  ![](srcs/images/programExecuteSample1.jpg)
-  
   ![](srcs/images/programExecuteSample2.jpg)
   
   ![](srcs/images/programExecuteSample3.jpg)
