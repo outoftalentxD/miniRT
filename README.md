@@ -7,7 +7,7 @@
   Description 
   -----------
   
-  > Project is using external graphics library mniLibX. 
+  > Project is using macOS external graphics library mniLibX. 
   
   
   * The management of your window must remain smooth: changing to another window, minimizing, etc.
